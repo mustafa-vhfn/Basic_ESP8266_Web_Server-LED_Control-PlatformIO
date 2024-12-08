@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .led-controls {
+    margin: 20px;
+  }
+  
+  button {
+    padding: 10px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
